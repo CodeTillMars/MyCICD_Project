@@ -4,7 +4,7 @@ public class hello {
 		// TODO Auto-generated method stub
 
 		
-		for (int i = 1; i <=23; i++) {
+		for (int i = 1; i <=19; i++) {
 			System.out.println("Check to changes in Jenkins after the run ...."+ i);
 		}
 		
