@@ -5,7 +5,7 @@ public class hello {
 
 		
 		for (int i = 1; i <=23; i++) {
-			System.out.println("Hello to GitHub...."+ i);
+			System.out.println("Check to changes in Jenkins after the run ...."+ i);
 		}
 		
 				
