@@ -4,8 +4,8 @@ public class hello {
 		// TODO Auto-generated method stub
 
 		
-		for (int i = 1; i <=17; i++) {
-			System.out.println("Hello to program...."+ i);
+		for (int i = 1; i <=23; i++) {
+			System.out.println("Hello to GitHub...."+ i);
 		}
 		
 				

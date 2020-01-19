@@ -5,7 +5,7 @@ public class hellotoo {
 
 		
 		for (int i = 1; i <=25; i++) {
-			System.out.println("Hello too world...."+ i);
+			System.out.println("change the world...."+ i);
 		}
 		
 				
